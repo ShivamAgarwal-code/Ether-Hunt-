@@ -1,7 +1,6 @@
 # Ether-Hunt-
 Treasure hunting game using ethereum blockchain
 ADVAITH HACKATHON
-![image](https://user-images.githubusercontent.com/72163800/126878903-d2c42a91-46b0-43d6-881c-ba39894dcd73.png)
 
 THEME-BLOCKCHAIN
 Detailed Explanation of the Idea:
