@@ -1,4 +1,3 @@
-DOUBLE SLASH 
 ADVAITH HACKATHON
 
 THEME-BLOCKCHAIN 
@@ -11,7 +10,7 @@ THEME-BLOCKCHAIN
 
 Detailed Explanation of the Idea: 
 
-Welcome,to Bored Wizard! Hidden Objects Treasure Hunt is a new collection of finding treasure games on the theme of blokchain technology – embark on a mystery adventure and find the lost treasure in the gamein a secret manner! New  hidden object games free with mystery and suspense await you! Enter the game, run to the  to find the pirate treasure chest  the jewel quest! The best “treasure blockchain game” awaits you – grab your treasure map and  embark on a quest for epic loot in brand new hidden objects mystery games free of charge!Try it Now!!!!
+Welcome,to Winhackers! Hidden Objects Treasure Hunt is a new collection of finding treasure games on the theme of blokchain technology – embark on a mystery adventure and find the lost treasure in the gamein a secret manner! New  hidden object games free with mystery and suspense await you! Enter the game, run to the  to find the pirate treasure chest  the jewel quest! The best “treasure blockchain game” awaits you – grab your treasure map and  embark on a quest for epic loot in brand new hidden objects mystery games free of charge!Try it Now!!!!
 
 FEATURES OF HIDDEN OBJECTS TREASURE HUNT:
 
@@ -27,7 +26,7 @@ FEATURES OF HIDDEN OBJECTS TREASURE HUNT:
 
 ⚜️ Free to play, gear up for the game right now!
 
-Web Page link--https://bored-wizard.github.io/doubleSlash/
+Web Page link--https://github.com/agarwals368/Ether-Hunt-.git
 PPT link--https://drive.google.com/file/d/10yeu5Xb8MGGQJE8oe8aRpShHqMRdnLay/view?usp=sharing
 
 
@@ -64,7 +63,7 @@ Note memo - This is an Blockchain Game created by our team by thinking of variou
 
 Entire content in this website is designed by our Team and we claim there are no copy right violation or plagiarized content.
 
-Copyright ©Bored-Wizard team
+Copyright ©Winhackers team
 
 
 # Getting Started with Create React App
