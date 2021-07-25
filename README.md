@@ -27,7 +27,8 @@ FEATURES OF HIDDEN OBJECTS TREASURE HUNT:
 ⚜️ Free to play, gear up for the game right now!
 
 Web Page link--https://bored-wizard.github.io/doubleSlash/
-PPT link--https://www.loom.com/share/e75fc2d3d6a645b68c904da4a0ea5ca5
+Video link--https://www.loom.com/share/e75fc2d3d6a645b68c904da4a0ea5ca5
+PPT link-- 
 
 
 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 𝘄𝗲 𝗿𝗮𝗻 𝗶𝗻𝘁𝗼- The major challenges that we ran into were-
